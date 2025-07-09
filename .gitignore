@@ -44,6 +44,12 @@ bld/
 *.nuget.props
 *.nuget.targets
 
+# Lock files
+project.lock.json
+project.fragment.lock.json
+package-lock.json
+yarn.lock
+
 # Test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
